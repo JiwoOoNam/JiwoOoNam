@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=#057347&height=150&section=header&text=Jiwoo's Github&fontSize=10" />
-<img src="https://capsule-render.vercel.app/api?type=soft&color=#057347&height=150&section=footer&text=텍스트&fontSize=10" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=#057347&height=150&section=header&text=Jiwoo's Github&fontSize=10" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=#057347&height=150&section=footer&text=텍스트&fontSize=10" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldn3311@naver.com)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldn3311@naver.com)](https://github.com/anuraghazra/github-readme-stats)
 <a href="링크"><img src="https://img.shields.io/badge/Instagram-#1B2766?style=flat-square&logo=Instagram&logoColor=blue"/></a>
