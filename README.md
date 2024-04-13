@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌱🍄🌵&fontAlign=70)
 ### Hi 👋
 
-![html](https://img.shields.io/badge/Android-E34F26?style=for-the-badge&logo=JavaScript&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#E8F4E8&height=120&section=footer&text=&fontSize=10" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldn3311@naver.com)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldn3311@naver.com)](https://github.com/anuraghazra/github-readme-stats)
-<a href="링크"><img src="https://img.shields.io/badge/Instagram-#1B2766?style=flat-square&logo=Instagram&logoColor=blue"/></a>
+ <img src="https://img.shields.io/badge/HTML-C0D988?style=flat&logo=#E34F26&logoColor=white"/>
