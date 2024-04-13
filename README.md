@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🌱🍄🌵&fontAlign=70)
 ### Hi 👋
 
- <img src="https://img.shields.io/badge/HTML-C0D988?style=flat&logo=#E34F26&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML-C0D988?style=flat&logo=html5&logoColor=white"/>
