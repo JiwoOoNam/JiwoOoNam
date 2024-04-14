@@ -18,14 +18,15 @@ Here are some ideas to get you started:
 <p align = "center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!🌱&fontSize=70" />
 </p>
-<br>
-<br>
+
+
 
 <p align="center">
-안녕하세요<br>
+🍄안녕하세요🍄<br>
 제 이름은 남지우이고 다양한 활동을 통해<br>
 개발을 배우고 있습니다<br>
 </p>
+<br>
 
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
